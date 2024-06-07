@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "Günlük çalışmalar"
+git commit -m "Daily update"
 git push origin main
